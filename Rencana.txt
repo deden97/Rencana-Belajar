@@ -1,1 +1,3 @@
 #Rencana Belajar
+1. ASP.Net MVC
+2. Entity Framework & ADO.Net
